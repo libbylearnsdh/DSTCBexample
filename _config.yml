@@ -1,4 +1,4 @@
-##########
+t##########
 # collectionbuilder-gh
 # Jekyll Digital Collection Generator, designed for GitHub Pages
 # https://github.com/CollectionBuilder/collectionbuilder-gh
@@ -20,9 +20,9 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-gh
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: DST Travels
+title: DST Objects
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: A sample project about our favorite travel locations
+tagline: A sample project about our objects
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: Digital Humanities is fun to learn about! 
